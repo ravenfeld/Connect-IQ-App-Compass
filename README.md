@@ -1,3 +1,6 @@
+# MIGRATED 
+https://gitlab.com/ravenfeld/Connect-IQ-App-Compass
+
 # Connect-IQ-App-Compass
 ![0](https://github.com/ravenfeld/Connect-IQ-App-Compass/blob/dev/screenshot/0.png)
 ![0](https://github.com/ravenfeld/Connect-IQ-App-Compass/blob/dev/screenshot/1.png)
